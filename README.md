@@ -74,15 +74,20 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-![output]()
+![Screenshot (835)](https://github.com/JEEVAABI/EDGEDETECTION/assets/93427098/bc95f9aa-0e48-4b9b-9797-ef37aff32e6b)
+![Screenshot (834)](https://github.com/JEEVAABI/EDGEDETECTION/assets/93427098/dce2a796-9ef1-4b82-bf93-7d7c748d1f9f)
+![Screenshot (833)](https://github.com/JEEVAABI/EDGEDETECTION/assets/93427098/05b6d66f-eb1d-4c4b-9a79-c07e63e60a99)
+
 
 
 ### LAPLACIAN EDGE DETECTOR
-![output]()
+![Screenshot (836)](https://github.com/JEEVAABI/EDGEDETECTION/assets/93427098/5b9479a2-264a-4cd8-be92-72ddd3b07667)
+
 
 
 ### CANNY EDGE DETECTOR
-![output]()
+![Screenshot (837)](https://github.com/JEEVAABI/EDGEDETECTION/assets/93427098/3b5142d1-910c-4248-8aa4-8f36bd5439c1)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
